@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Watchdog")]
+[assembly: AssemblyTitle("DriveLoggerService")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Watchdog")]
+[assembly: AssemblyProduct("DriveLoggerService")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8705be2d-ed84-479b-b9cc-779af954218b")]
+[assembly: Guid("cf53fc92-c510-4541-82e8-2d61bd7e4b7f")]
 
 // Version information for an assembly consists of the following four values:
 //
